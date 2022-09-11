@@ -21,31 +21,31 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Saad Chalal                        # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Ethical hacker || Django developer  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Ethical hacker || Django developer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: ChalalSaad             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: SaadChalal            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Saad Chalal
+  email: chalalsaad160@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/SaadChalal     # change to your twitter homepage
+    - https://github.com/ChalalSaad       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,18 +73,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   # [dark|light]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: https://avatars.githubusercontent.com/u/108819756?s=400&u=adaa9c637519d36f3477af13ca671d3e5ed60fe5&v=4
 # boolean type, the global switch for ToC in posts.
 toc: true
 
