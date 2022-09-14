@@ -1,6 +1,6 @@
 ---
 title: Remote file inclusion
-date: 14,sep 2022 21:40 PM
+date: 14,sep 2022 01:22 AM
 categories : [Penetration Tester, Web Hacking ,file inclusion]
 tags: [web hacking , file inclusion ]
 ---
@@ -25,6 +25,10 @@ Remote file inclusion (RFI) is an attack targeting vulnerabilities in web applic
 
 ## Remote file inclusion examples
 i will attack my [DVWA](https://www.kali.org/tools/dvwa/) lab 
+
+
+
+
 ![global pic](/assets/rfi3.png)
 
 
