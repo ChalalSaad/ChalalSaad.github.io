@@ -1,6 +1,6 @@
 ---
 title: Remote file inclusion
-date: 14,sep 2022 01:22 AM
+date: 14,sep 2022 01:32 AM
 categories : [Penetration Tester, Web Hacking ,file inclusion]
 tags: [web hacking , file inclusion ]
 ---
