@@ -19,7 +19,7 @@ Remote file inclusion (RFI) is an attack targeting vulnerabilities in web applic
 
 ## how hacker discover this vulnerabilities
 
-[See this post](https://chalalsaad.github.io/posts/file-inclusion-first-post/)
+[See this post](https://chalalsaad.github.io/posts/file-inclusion-directory-traversal/)
 
 ---
 
